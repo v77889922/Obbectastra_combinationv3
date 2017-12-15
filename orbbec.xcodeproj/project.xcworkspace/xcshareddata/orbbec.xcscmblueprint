@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AD25E813BC8FC5963ECABB80946D355563ACB3E0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6AC80CC0B936E8992C6609C450393725057FE58A" : 9223372036854775807,
+    "AD25E813BC8FC5963ECABB80946D355563ACB3E0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12575170-3158-4EFB-9690-DF87749EFDED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6AC80CC0B936E8992C6609C450393725057FE58A" : "addons\/ofxOrbbecAstra\/",
+    "AD25E813BC8FC5963ECABB80946D355563ACB3E0" : "ccof\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "orbbec",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Chapter08-cv\/05-orbbec\/orbbec.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mattfelsen\/ofxOrbbecAstra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6AC80CC0B936E8992C6609C450393725057FE58A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jeffcrouse\/ccof.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD25E813BC8FC5963ECABB80946D355563ACB3E0"
+    }
+  ]
+}
